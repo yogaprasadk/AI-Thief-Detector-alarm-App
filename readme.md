@@ -30,3 +30,4 @@ Technologies used in the project:
 *   react
 *   node
 *   nextjs
+*   Tensorflow js
